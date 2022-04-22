@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import tugas1_10119294.R
+//import com.example.tugas1_10119294.R
 
 class RegisterActivity : AppCompatActivity() {
 

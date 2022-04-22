@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tugas1_10119294">
+    package="com.example.tugas1_10119294">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.tugas1Day">
         <activity
-            android:name="com.example.tugas1_10119294.SplashScreen"
+            android:name=".SplashScreen"
             android:theme="@style/SplashTheme"
             android:exported="true">
             <intent-filter>
@@ -21,25 +21,25 @@
         </activity>
 
         <activity
-            android:name="com.example.tugas1_10119294.RegisterActivity"
+            android:name=".RegisterActivity"
             android:exported="false"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar"
             ></activity>
         <activity
-            android:name="com.example.tugas1_10119294.LoginActivity"
+            android:name=".LoginActivity"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar"
             android:exported="false" >
 
         </activity>
 
         <activity
-            android:name="com.example.tugas1_10119294.MainActivity"
-            android:exported="true">
+            android:name=".MainActivity"
+            android:exported="false">
 
         </activity>
 
         <activity
-            android:name="com.example.tugas1_10119294.ProfileActivity"
+            android:name=".ProfileActivity"
             android:exported="false" >
         </activity>
     </application>

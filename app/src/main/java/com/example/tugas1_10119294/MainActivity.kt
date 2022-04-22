@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import tugas1_10119294.R
+//import tugas1_10119294.R
 
 /*
 * Tanggal : 20/04/2022
