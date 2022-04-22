@@ -1,9 +1,10 @@
-package com.example.tugas1
+package com.example.tugas1_10119294
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
 import android.widget.TextView
+import tugas1_10119294.R
+
 /*
 * Tanggal : 20/04/2022
 * NIM : 10119294

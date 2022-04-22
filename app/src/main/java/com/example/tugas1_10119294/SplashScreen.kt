@@ -1,4 +1,4 @@
-package com.example.tugas1
+package com.example.tugas1_10119294
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
