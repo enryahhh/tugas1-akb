@@ -34,6 +34,7 @@ class RegisterActivity : AppCompatActivity() {
 
         textLogin.setOnClickListener {
             startActivity(Intent(this,LoginActivity::class.java))
+            finish()
         }
     }
 }

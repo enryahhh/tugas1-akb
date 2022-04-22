@@ -4,7 +4,11 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-
+/*
+* Tanggal : 20/04/2022
+* NIM : 10119294
+* Nama : Lingga Juliansyah
+* */
 class MainActivity : AppCompatActivity() {
     private lateinit var btnProfile: Button
     private lateinit var btnLogout : Button
